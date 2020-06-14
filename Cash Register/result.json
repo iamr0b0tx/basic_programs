@@ -1,0 +1,39 @@
+[
+    {
+        "customer_name": "christian", 
+        "product": [
+            {
+                "product_name": "python book", 
+                "product_quantity": 1.0, 
+                "product_price": 20000.0
+            }, 
+            {
+                "product_name": "matches", 
+                "product_quantity": 10.0, 
+                "product_price": 100.0
+            }
+        ], 
+        "time": "Thu Feb  6 12:57:59 2020"
+    }, 
+    {
+        "customer_name": "chibuzo", 
+        "product": [
+            {
+                "product_name": "java book", 
+                "product_quantity": 10.0, 
+                "product_price": 2000.0
+            }, 
+            {
+                "product_name": "petrol", 
+                "product_quantity": 1.0, 
+                "product_price": 10000.0
+            }, 
+            {
+                "product_name": "matches", 
+                "product_quantity": 10.0, 
+                "product_price": 1000.0
+            }
+        ], 
+        "time": "Thu Feb  6 12:58:46 2020"
+    }
+]

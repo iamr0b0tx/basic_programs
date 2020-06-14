@@ -1,0 +1,114 @@
+[
+    {
+        "customer_name": "james",
+        "product": [
+            {
+                "product_name": "spoon",
+                "product_quantity": 20.0,
+                "product_price": 12.0
+            },
+            {
+                "product_name": "50",
+                "product_quantity": 5.0,
+                "product_price": 100.0
+            }
+        ],
+        "time": "10/02/2020 10:57"
+    },
+    {
+        "customer_name": "lily",
+        "product": [
+            {
+                "product_name": "powder",
+                "product_quantity": 2.0,
+                "product_price": 500.0
+            },
+            {
+                "product_name": "lipstick",
+                "product_quantity": 2.0,
+                "product_price": 1000.0
+            },
+            {
+                "product_name": "hand bag",
+                "product_quantity": 3.0,
+                "product_price": 2000.0
+            }
+        ],
+        "time": "10/02/2020 10:58"
+    },
+    {
+        "customer_name": "Mr Abu",
+        "product": [
+            {
+                "product_name": "hoe",
+                "product_quantity": 3.0,
+                "product_price": 500.0
+            },
+            {
+                "product_name": "shovel",
+                "product_quantity": 2.0,
+                "product_price": 2000.0
+            },
+            {
+                "product_name": "hammer",
+                "product_quantity": 2.0,
+                "product_price": 1500.0
+            }
+        ],
+        "time": "10/02/2020 10:58"
+    },
+    {
+        "customer_name": "james",
+        "product": [
+            {
+                "product_name": "spoon",
+                "product_quantity": 20.0,
+                "product_price": 12.0
+            },
+            {
+                "product_name": "50",
+                "product_quantity": 5.0,
+                "product_price": 100.0
+            }
+        ],
+        "time": "10/02/2020 10:58"
+    },
+    {
+        "customer_name": "kelly",
+        "product": [
+            {
+                "product_name": "laptop",
+                "product_quantity": 1.0,
+                "product_price": 50000.0
+            }
+        ],
+        "time": "10/02/2020 16:45"
+    },
+    {
+        "customer_name": "Chima",
+        "product": [
+            {
+                "product_name": "Omo",
+                "product_quantity": 200.0,
+                "product_price": 50.0
+            },
+            {
+                "product_name": "Hair Cream",
+                "product_quantity": 2.0,
+                "product_price": 2000.0
+            }
+        ],
+        "time": "16/03/2020 15:10"
+    },
+    {
+        "customer_name": "Kara",
+        "product": [
+            {
+                "product_name": "lipstick",
+                "product_quantity": 1.0,
+                "product_price": 1500.0
+            }
+        ],
+        "time": "16/03/2020 15:10"
+    }
+]

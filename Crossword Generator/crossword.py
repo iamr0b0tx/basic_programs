@@ -135,6 +135,7 @@ class Crossword:
 
     
 if __name__ == "__main__":
-    word_list = ['crabs', 'soup', 'pale', 'lagos']
-    word_list = ['pale', 'lagos', 'crabs', 'soup', 'envelope', 'catastrophe', 'histogram']
+    # word_list = ['crabs', 'soup', 'pale', 'lagos']
+    word_list = ['pale', 'lagos', 'crabs', 'soup']
+    # word_list = ['pale', 'lagos', 'crabs', 'soup', 'envelope', 'catastrophe', 'histogram']
     crossword_instance = Crossword(word_list)
